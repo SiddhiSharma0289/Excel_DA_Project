@@ -1,5 +1,4 @@
 # Excel_DA_Project
-A good GitHub README for a data analyst project should be concise, recruiter-friendly, and highlight your skills. Here's a template you can customize for your Pizza Sales Dashboard:
 
 # 🍕 Pizza Sales Analysis Dashboard
 
