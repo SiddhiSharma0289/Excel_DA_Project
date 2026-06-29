@@ -66,7 +66,7 @@ This project analyzes pizza sales data to uncover key business insights related 
 
 ## 📸 Dashboard Preview
 
-https://github.com/SiddhiSharma0289/Excel_DA_Project/blob/main/Pizza%20Sales%20Dashboard%20.png
+![Pizza Sales Dashboard](Pizza Sales Dashboard .png)
 
 
 ## 👤 Author
