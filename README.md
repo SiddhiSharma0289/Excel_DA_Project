@@ -50,12 +50,6 @@ This project analyzes pizza sales data to uncover key business insights related 
 * A small group of pizza varieties accounted for a significant portion of total revenue.
 * Certain pizzas consistently underperformed, highlighting opportunities for menu optimization.
 
-## 📂 Files Included
-
-* `Pizza_Sales_Dashboard.xlsx` – Excel dashboard workbook
-* `README.md` – Project documentation
-* `Dashboard_Screenshot.png` – Dashboard preview (optional)
-
 ## 🚀 How to Use
 
 1. Download the Excel workbook.
