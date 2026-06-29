@@ -66,7 +66,11 @@ This project analyzes pizza sales data to uncover key business insights related 
 
 ## 📸 Dashboard Preview
 
-![Pizza Sales Dashboard](Pizza Sales Dashboard .png)
+Markdown
+
+## 📸 Dashboard Preview
+
+![Pizza Sales Dashboard](Pizza%20Sales%20Dashboard%20.png)
 
 
 ## 👤 Author
