@@ -64,9 +64,6 @@ This project analyzes pizza sales data to uncover key business insights related 
 3. Use the slicers to filter data by category, size, and time period.
 4. Explore the dashboard to analyze sales performance and trends.
 
-## 📸 Dashboard Preview
-
-Markdown
 
 ## 📸 Dashboard Preview
 
