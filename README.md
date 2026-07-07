@@ -2,9 +2,11 @@
 
 # 🍕 Pizza Sales Analysis Dashboard
 
+![Pizza Sales Dashboard](Pizza%20Sales%20Dashboard%20.png)
+
 ## 📌 Project Overview
 
-This project analyzes pizza sales data to uncover key business insights related to revenue, customer ordering behavior, product performance, and sales trends. The dashboard was built in Microsoft Excel using Pivot Tables, Pivot Charts, and interactive Slicers to enable dynamic analysis.
+This project analyzes pizza sales data to uncover KPIs related to revenue, customer ordering behavior, product performance, and sales trends. The dashboard was built in Microsoft Excel using Pivot Tables, Pivot Charts, and interactive Slicers to enable dynamic analysis.
 
 ## 🎯 Objectives
 
@@ -49,14 +51,6 @@ This project analyzes pizza sales data to uncover key business insights related 
 * Sales peaked during weekends and evening hours.
 * A small group of pizza varieties accounted for a significant portion of total revenue.
 * Certain pizzas consistently underperformed, highlighting opportunities for menu optimization.
-
-## 🚀 How to Use
-
-1. Download the Excel workbook.
-2. Open in Microsoft Excel.
-3. Use the slicers to filter data by category, size, and time period.
-4. Explore the dashboard to analyze sales performance and trends.
-
 
 ## 📸 Dashboard Preview
 
