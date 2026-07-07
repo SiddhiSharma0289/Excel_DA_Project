@@ -55,11 +55,3 @@ This project analyzes pizza sales data to uncover KPIs related to revenue, custo
 ## 📸 Dashboard Preview
 
 ![Pizza Sales Dashboard](Pizza%20Sales%20Dashboard%20.png)
-
-
-## 👤 Author
-
-**Siddhi Sharma**
-
-* Aspiring Data Analyst
-* Skilled in Excel, SQL, Power BI, Tableau, and Python
