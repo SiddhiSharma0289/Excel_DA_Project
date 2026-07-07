@@ -1,11 +1,12 @@
 # Excel_DA_Project
-A good GitHub README for a data analyst project should be concise, recruiter-friendly, and highlight your skills. Here's a template you can customize for your Pizza Sales Dashboard:
 
 # 🍕 Pizza Sales Analysis Dashboard
 
+![Pizza Sales Dashboard](Pizza%20Sales%20Dashboard%20.png)
+
 ## 📌 Project Overview
 
-This project analyzes pizza sales data to uncover key business insights related to revenue, customer ordering behavior, product performance, and sales trends. The dashboard was built in Microsoft Excel using Pivot Tables, Pivot Charts, and interactive Slicers to enable dynamic analysis.
+This project analyzes pizza sales data to uncover KPIs related to revenue, customer ordering behavior, product performance, and sales trends. The dashboard was built in Microsoft Excel using Pivot Tables, Pivot Charts, and interactive Slicers to enable dynamic analysis.
 
 ## 🎯 Objectives
 
@@ -51,27 +52,6 @@ This project analyzes pizza sales data to uncover key business insights related 
 * A small group of pizza varieties accounted for a significant portion of total revenue.
 * Certain pizzas consistently underperformed, highlighting opportunities for menu optimization.
 
-## 📂 Files Included
-
-* `Pizza_Sales_Dashboard.xlsx` – Excel dashboard workbook
-* `README.md` – Project documentation
-* `Dashboard_Screenshot.png` – Dashboard preview (optional)
-
-## 🚀 How to Use
-
-1. Download the Excel workbook.
-2. Open in Microsoft Excel.
-3. Use the slicers to filter data by category, size, and time period.
-4. Explore the dashboard to analyze sales performance and trends.
-
 ## 📸 Dashboard Preview
 
-https://github.com/SiddhiSharma0289/Excel_DA_Project/blob/main/Pizza%20Sales%20Dashboard%20.png
-
-
-## 👤 Author
-
-**Siddhi Sharma**
-
-* Aspiring Data Analyst
-* Skilled in Excel, SQL, Power BI, Tableau, and Python
+![Pizza Sales Dashboard](Pizza%20Sales%20Dashboard%20.png)
