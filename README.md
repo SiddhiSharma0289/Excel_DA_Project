@@ -2,7 +2,7 @@
 
 # 🍕 Pizza Sales Analysis Dashboard
 
-![Pizza Sales Dashboard](Pizza%20Sales%20Dashboard%20.png)
+![Pizza Sales Dashboard](Pizza%20Sales%20Dashboard.png)
 
 ## 📌 Project Overview
 
@@ -54,4 +54,4 @@ This project analyzes pizza sales data to uncover KPIs related to revenue, custo
 
 ## 📸 Dashboard Preview
 
-![Pizza Sales Dashboard](Pizza%20Sales%20Dashboard%20.png)
+![Pizza Sales Dashboard](Pizza%20Sales%20Dashboard.png)
